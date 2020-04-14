@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="DELETE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>PA Activity Usage</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>806cab82db0010103d671461399619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Activity Usage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_update_name>pa_dashboards_806cab82db0010103d671461399619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ChetanApp">6d86b371db0050103d67146139961981</application>
+        <file_path/>
+        <instance_id>4065d98adb13df807e55d5b0cf961915</instance_id>
+        <instance_name>dev65121</instance_name>
+        <name>pa_dashboards_806cab82db0010103d671461399619dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards"><pa_dashboards action="INSERT_OR_UPDATE"><active>true</active><breakdown_source/><color>#ffffff</color><disable_multiple_element>false</disable_multiple_element><group/><groups/><is_breakdown>false</is_breakdown><managed_breakdown/><managed_publisher/><name>PA Activity Usage</name><no_tabs>false</no_tabs><order/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><restrict_to_roles/><role_override>true</role_override><roles/><should_migrate_permissions>false</should_migrate_permissions><sys_class_name>pa_dashboards</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-10 05:30:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>806cab82db0010103d671461399619dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Activity Usage</sys_name><sys_overrides/><sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package><sys_policy/><sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope><sys_update_name>pa_dashboards_806cab82db0010103d671461399619dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-10 05:30:12</sys_updated_on><users/><visible_to>2</visible_to></pa_dashboards></record_update>]]></payload>
+        <payload_hash>-237617759</payload_hash>
+        <record_name>PA Activity Usage</record_name>
+        <reverted_from/>
+        <source>fd86b371db0050103d67146139961983</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_id>586c2f82db0010103d671461399619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17162912a5b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+        <type>Dashboard</type>
+        <update_guid>906c2f82ea0010100da36bc4b54ae5f3</update_guid>
+        <update_guid_history>906c2f82ea0010100da36bc4b54ae5f3:-237617759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PA Activity Usage">646c6f82db0010103d67146139961920</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:14</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards">pa_dashboards</sys_db_object>
+        <sys_id>c9aa3f85f9104c8da720e665bbc36759</sys_id>
+        <sys_metadata>806cab82db0010103d671461399619dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Activity Usage</sys_name>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_scope_delete display_value="">02b14adc6b4a41ec81f0ab53d06aab41</sys_scope_delete>
+        <sys_update_name>pa_dashboards_806cab82db0010103d671461399619dc</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_806cab82db0010103d671461399619dc">586c2f82db0010103d671461399619f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA PA Activity Usage - New Tab">886cab82db0010103d671461399619de</legacy_page>
+        <name>PA PA Activity Usage - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_id>c06cab82db0010103d671461399619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA PA Activity Usage - New Tab</sys_name>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_update_name>sys_grid_canvas_c06cab82db0010103d671461399619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ChetanApp">6d86b371db0050103d67146139961981</application>
+        <file_path/>
+        <instance_id>4065d98adb13df807e55d5b0cf961915</instance_id>
+        <instance_name>dev65121</instance_name>
+        <name>sys_grid_canvas_c06cab82db0010103d671461399619e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA PA Activity Usage - New Tab">886cab82db0010103d671461399619de</legacy_page><name>PA PA Activity Usage - New Tab</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-10 05:30:12</sys_created_on><sys_id>c06cab82db0010103d671461399619e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA PA Activity Usage - New Tab</sys_name><sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package><sys_policy/><sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope><sys_update_name>sys_grid_canvas_c06cab82db0010103d671461399619e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-10 05:30:12</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>1248487951</payload_hash>
+        <record_name>PA PA Activity Usage - New Tab</record_name>
+        <reverted_from/>
+        <source>fd86b371db0050103d67146139961983</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_id>946cab82db0010103d671461399619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171629129240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>9c6cab827a001010dcce9461bd770ce1</update_guid>
+        <update_guid_history>9c6cab827a001010dcce9461bd770ce1:1248487951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>393a99940b11478095b6e58abcf31c10</sys_id>
+        <sys_metadata>c06cab82db0010103d671461399619e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA PA Activity Usage - New Tab</sys_name>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_scope_delete display_value="">02b14adc6b4a41ec81f0ab53d06aab41</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_c06cab82db0010103d671461399619e0</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_c06cab82db0010103d671461399619e0">946cab82db0010103d671461399619e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

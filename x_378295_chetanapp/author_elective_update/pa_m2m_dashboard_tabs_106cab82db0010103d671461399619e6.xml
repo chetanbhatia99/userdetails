@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="PA Activity Usage">806cab82db0010103d671461399619dc</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>106cab82db0010103d671461399619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>806cab82db0010103d671461399619dc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_106cab82db0010103d671461399619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+        <tab display_value="PA Activity Usage - New Tab">586cab82db0010103d671461399619e3</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ChetanApp">6d86b371db0050103d67146139961981</application>
+        <file_path/>
+        <instance_id>4065d98adb13df807e55d5b0cf961915</instance_id>
+        <instance_name>dev65121</instance_name>
+        <name>pa_m2m_dashboard_tabs_106cab82db0010103d671461399619e6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="PA Activity Usage">806cab82db0010103d671461399619dc</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-10 05:30:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>106cab82db0010103d671461399619e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>806cab82db0010103d671461399619dc</sys_name><sys_overrides/><sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package><sys_policy/><sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_106cab82db0010103d671461399619e6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-10 05:30:12</sys_updated_on><tab display_value="PA Activity Usage - New Tab">586cab82db0010103d671461399619e3</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>2042377251</payload_hash>
+        <record_name>806cab82db0010103d671461399619dc</record_name>
+        <reverted_from/>
+        <source>fd86b371db0050103d67146139961983</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:12</sys_created_on>
+        <sys_id>946c2f82db0010103d671461399619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171629129fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:12</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>dc6c2f821b001010c4818f31a7692bf1</update_guid>
+        <update_guid_history>dc6c2f821b001010c4818f31a7692bf1:2042377251</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2c6c6f82db0010103d6714613996191c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 05:30:14</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>343e28c9022843238ac4930827135c21</sys_id>
+        <sys_metadata>106cab82db0010103d671461399619e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>806cab82db0010103d671461399619dc</sys_name>
+        <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+        <sys_scope_delete display_value="">02b14adc6b4a41ec81f0ab53d06aab41</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_106cab82db0010103d671461399619e6</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_106cab82db0010103d671461399619e6">946c2f82db0010103d671461399619f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 05:30:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

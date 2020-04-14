@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="lastname" label="LastName" language="en" table="x_378295_chetanapp_userdetails">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>lastname</element>
+            <help/>
+            <hint/>
+            <label>LastName</label>
+            <language>en</language>
+            <name>x_378295_chetanapp_userdetails</name>
+            <plural>LastNames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:49:15</sys_created_on>
+            <sys_id>f547c4cedb8050103d671461399619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LastName</sys_name>
+            <sys_package display_value="ChetanApp" source="x_378295_chetanapp">6d86b371db0050103d67146139961981</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ChetanApp">6d86b371db0050103d67146139961981</sys_scope>
+            <sys_update_name>sys_documentation_x_378295_chetanapp_userdetails_lastname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:49:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
